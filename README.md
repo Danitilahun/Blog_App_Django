@@ -1,4 +1,3 @@
-```markdown
 # Blog App (Django)
 
 A simple blog platform built with Django, similar to Medium, where users can create, edit, and read blog posts. The application supports user authentication, CRUD operations for posts, and a clean, user-friendly design.
