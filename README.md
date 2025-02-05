@@ -72,10 +72,4 @@ Follow these steps to set up the project locally.
    ```bash
    python manage.py runserver
    ```
-
-Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view the app.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 ```
